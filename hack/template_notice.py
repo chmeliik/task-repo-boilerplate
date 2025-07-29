@@ -9,7 +9,7 @@ NOTICE_HEADER = "<TEMPLATED FILE!>"
 NOTICE_COMMENT = [
     NOTICE_HEADER,
     # Apart from the header, this script can autofix comments when the content changes.
-    "This file comes from the templates at https://github.com/chmeliik/task-repo-boilerplate.",
+    "This file comes from the templates at https://github.com/konflux-ci/task-repo-boilerplate.",
     "Please consider sending a PR upstream instead of editing the file directly.",
     "See the SHARED-CI.md document in this repo for more details.",
 ]
